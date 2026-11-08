@@ -1,0 +1,6 @@
+{
+  "name": "A Little Sorry, A Lot of Birthday Wishes! 🥺🎂",
+  "description": "A premium, story-driven interactive birthday surprise website celebrating 9 November with cartoon animations, heartfelt wishes, interactive cake, and personal memory galleries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
